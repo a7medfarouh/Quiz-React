@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quizreact/static/css/main.60f88db2.css",
+    "main.js": "/quizreact/static/js/main.0a635f77.js",
+    "static/media/Wave-100s-1366px (2).svg": "/quizreact/static/media/Wave-100s-1366px (2).45c53e2d592ecec25cbf.svg",
+    "index.html": "/quizreact/index.html",
+    "main.60f88db2.css.map": "/quizreact/static/css/main.60f88db2.css.map",
+    "main.0a635f77.js.map": "/quizreact/static/js/main.0a635f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f88db2.css",
+    "static/js/main.0a635f77.js"
+  ]
+}
